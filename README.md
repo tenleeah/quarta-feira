@@ -5,5 +5,5 @@
 
 *Lista
 + item da lista
-+ *italic
++ *italic*
 + **bold**
