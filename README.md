@@ -6,4 +6,4 @@
 *Lista
 + item da lista
 + *italic
-+ **bold
++ **bold**
